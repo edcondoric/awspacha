@@ -8,7 +8,7 @@ setup(
     description='Paquete para operaciones con Spark y S3',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/edcondoric/awspacha',
+    url='https://github.com/edcondoric/awspacha.git',
     packages=find_packages(where='src'),
     package_dir={'': 'src'},
     classifiers=[
