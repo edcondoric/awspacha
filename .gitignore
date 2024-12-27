@@ -4,3 +4,4 @@ dist/
 *.pyc
 *.env
 notas.txt
+publish_package.py
