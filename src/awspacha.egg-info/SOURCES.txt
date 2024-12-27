@@ -2,6 +2,9 @@ LICENSE
 README.md
 setup.py
 src/awspacha/__init__.py
+src/awspacha/athena.py
+src/awspacha/awsglue.py
+src/awspacha/crawler.py
 src/awspacha/main.py
 src/awspacha.egg-info/PKG-INFO
 src/awspacha.egg-info/SOURCES.txt

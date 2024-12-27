@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: awspacha
-Version: 0.1.3
+Version: 0.1.15
 Summary: Paquete para operaciones con Spark y S3
 Home-page: https://github.com/edcondoric/awspacha.git
 Author: Ed Condori

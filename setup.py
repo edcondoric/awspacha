@@ -1,8 +1,13 @@
 from setuptools import setup, find_packages
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+version = os.getenv('VERSION')
 
 setup(
     name='awspacha',
-    version='0.1.3',
+    version=version,
     author='Ed Condori',
     author_email='edcondoricc@gmail.com',
     description='Paquete para operaciones con Spark y S3',
